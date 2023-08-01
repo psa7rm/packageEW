@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Demo
+Version: 0.1
+Summary: My first test package
+Home-page: https://github.com/psa7rm/packageEW
+Author: Elisabeth Waldron
+Author-email: elisabethwaldron2710@gmail.com
+License: MIT
+License-File: LICENSE
